@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.twittertraining001">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Twittertraining001">
+        <activity android:name=".signInActivity"
+            android:label="Login Page">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:label="Register Page" android:name=".signupActivity"/>
+        <activity android:label="Friend List" android:name=".userList"/>
+        <activity android:label="Messages" android:name=".myFeed"/>
+        <activity android:label="New Tweet" android:name=".tweet"/>
+
+    </application>
+
+</manifest>

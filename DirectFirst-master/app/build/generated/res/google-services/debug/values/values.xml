@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">855600204679-j9epu5d2eavdki5d9rqqqor3d4von6kb.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://direct-first.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">855600204679</string>
+    <string name="google_api_key" translatable="false">AIzaSyCx2g_JNGXFJk8V4MpSGXb2F4kb5e8wy9Y</string>
+    <string name="google_app_id" translatable="false">1:855600204679:android:59d85e9333cee05d52a122</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCx2g_JNGXFJk8V4MpSGXb2F4kb5e8wy9Y</string>
+    <string name="google_storage_bucket" translatable="false">direct-first.appspot.com</string>
+    <string name="project_id" translatable="false">direct-first</string>
+</resources>

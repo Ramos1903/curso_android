@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "855600204679",
+    "firebase_url": "https://direct-first.firebaseio.com",
+    "project_id": "direct-first",
+    "storage_bucket": "direct-first.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855600204679:android:59d85e9333cee05d52a122",
+        "android_client_info": {
+          "package_name": "com.santtytech.directfirst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855600204679-j9epu5d2eavdki5d9rqqqor3d4von6kb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx2g_JNGXFJk8V4MpSGXb2F4kb5e8wy9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855600204679-j9epu5d2eavdki5d9rqqqor3d4von6kb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

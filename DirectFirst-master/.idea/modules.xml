@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Direct First.iml" filepath="$PROJECT_DIR$/Direct First.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Direct_First.iml" filepath="$PROJECT_DIR$/.idea/modules/Direct_First.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Direct_First.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Direct_First.app.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">OrkApp</string>
+    <string name="entrar">Entrar</string>
+    <string name="singIn">Não é cadastrado? Crie Agora seu cadastro!</string>
+    <string name="insert">Cadastrar</string>
+    <string name="photo">Foto</string>
+    <string name="navbarMensagem">Mensagens</string>
+
+    <string name="nome">Nome</string>
+    <string name="email">E-mail</string>
+    <string name="senha">Senha</string>
+    <string name="contacts">Contatos</string>
+    <string name="logout">logout</string>
+    <string name="item_user_name">Nome de Usuário</string>
+    <string name="registro">Cadastrar</string>
+    <string name="chat">Chat</string>
+    <string name="btn_send_message">Enviar</string>
+    <string name="type_message">Digite a mensagem ...</string>
+    <string name="welcome">Bem Vindo!</string>
+</resources>
